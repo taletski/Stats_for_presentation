@@ -3,4 +3,4 @@
 *.csv
 
 #Untracked directories
-.ipynb_checkpoints/
+/.ipynb_checkpoints/
