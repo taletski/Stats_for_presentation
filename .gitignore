@@ -1,6 +1,7 @@
 #Untracked files
 *.xls
 *.csv
+!result.csv
 
 #Untracked directories
 /.ipynb_checkpoints/
