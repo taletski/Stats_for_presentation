@@ -1,0 +1,5 @@
+#Untracked files
+*.xls
+*.csv
+#Untracked directories
+.ipynb_checkpoints/*

@@ -1,7 +1,10 @@
 #Untracked files
+*.swp
 *.xls
 *.csv
+
 !result.csv
+!counted_by_ASJC.csv
 
 #Untracked directories
 /.ipynb_checkpoints/
